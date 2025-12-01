@@ -159,6 +159,9 @@ public function store(Request $request) {
 - luôn phản hồi bằng tiếng việt
 - luôn tuân theo danh sách chức năng đã liệt kê ở trên 
 - sử dụng tiếng việt có dấu trong toàn bộ giao diện và thông báo lỗi
+- không dùng Nodejs
+- không cần unti test
+- dự án sử dụng hướng tiếp cận Code-First
 - sử dụng bootstrap 5 để làm giao diện cho admin
 - tất cả các file hướng dẫn .md được đặt ở thư mục `.docs` trong dự án
 - luôn kiểm tra lại tên model,tên bảng, tên biến, tên route đã có trong dự án hay chưa sau khi hoàn thành chức năng.
