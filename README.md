@@ -100,12 +100,12 @@ Xem thêm tại thư mục `.docs/`:
 - ⚠️ Validation toàn bộ form bằng tiếng Việt
 - ⚠️ Chỉ được hủy lịch trước 24 giờ
 - ⚠️ Mỗi bác sĩ chỉ có 1 lịch làm việc cho mỗi thứ
-- ⚠️ Không cần đăng nhập để đặt lịch
+- ⚠️ Cần đăng nhập để đặt lịch
 
 ## 📧 Liên Hệ
 
 - Email: info@otis.vn
-- Hotline: 1900-xxxx
+- Hotline: 0915527412
 
 ---
 
